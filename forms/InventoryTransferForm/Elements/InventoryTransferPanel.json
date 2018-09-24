@@ -1,0 +1,117 @@
+{
+  "!type": "Panel_bs", 
+  "appearance": " panel-primary", 
+  "backgroundColor": "", 
+  "badge": "", 
+  "borderColor": "", 
+  "borderStyle": "", 
+  "borderWidth": "", 
+  "bottom": "auto", 
+  "cached_js": "", 
+  "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e", 
+  "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferRow.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferRowCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferRowCopy1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferRowCopy2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferRowCopyCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferPostButton.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "InventoryTransferForm", 
+        "Elements", 
+        "InvTransferCancelButton.json"
+      ]
+    }
+  ], 
+  "class": "", 
+  "color": "", 
+  "display": "", 
+  "expanded_pmp": null, 
+  "fontFamily": "", 
+  "fontSize": "", 
+  "fontStyle": "", 
+  "fontWeight": "", 
+  "footer": "", 
+  "header": "Inventory Transfer", 
+  "height": "auto", 
+  "hidden": "", 
+  "id": "InventoryTransferPanel", 
+  "left": "auto", 
+  "mAll": "", 
+  "mBottom": "", 
+  "mLeft": "", 
+  "mRight": "", 
+  "mTop": "", 
+  "onclick": "", 
+  "onmousedown": "", 
+  "onmousemove": "", 
+  "onmouseout": "", 
+  "onmouseup": "", 
+  "onresize": "", 
+  "ontouchend": "", 
+  "ontouchmove": "", 
+  "ontouchstart": "", 
+  "pAll": "", 
+  "pBottom": "", 
+  "pLeft": "", 
+  "pRight": "", 
+  "pTop": "", 
+  "position": "static", 
+  "right": "auto", 
+  "script": "", 
+  "style": "", 
+  "top": "auto", 
+  "value": "", 
+  "width": "auto"
+}
